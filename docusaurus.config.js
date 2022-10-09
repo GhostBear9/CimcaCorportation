@@ -9,7 +9,7 @@ const config = {
   title: 'Cimca Corporation',
   tagline: 'The Future Is... Cimca',
   url: 'https://GhostBear9.github.io',
-  baseUrl: '/CimcaCorporation/',
+  baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/CimcaLogo.		png',
