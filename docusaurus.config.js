@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Cimca Corporation',
-  tagline: 'The Future Is... Cimca',
+  title: 'Northwind Life RP',
+  tagline: 'Northwind Life RP',
   url: 'https://GhostBear9.github.io',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'GhostBear9', // Usually your GitHub org/user name.
-  projectName: 'CimcaCorporation', // Usually your repo name.
+  projectName: 'Northwind', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -57,9 +57,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Cimca Corporation',
+        title: 'Northwind Life RP',
         logo: {
-          alt: 'Cimca Corporation',
+          alt: 'Northwind Life RP',
           src: 'img/Logo2.png',
         },
         items: [
@@ -67,13 +67,13 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Public Documents',
+            label: 'Rules',
           },	
 		  {
             type: 'doc',
             docId: 'intro2',
             position: 'left',
-            label: 'Rules & Regulations',
+            label: 'Laws',
           },	
           {
             href: 'https://discord.gg/znZspvXJ',
